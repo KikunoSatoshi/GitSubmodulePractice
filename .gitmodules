@@ -1,9 +1,0 @@
-[submodule "Assets/PrivateFolder"]
-	path = Assets/PrivateFolder
-	url = https://github.com/KikunoSatoshi/GitSubmodulePracticePrivateFolder.git
-[submodule "Assets/PrivateFolder2"]
-	path = Assets/PrivateFolder2
-	url = https://github.com/KikunoSatoshi/GitSubmodulePracticePrivate2.git
-[submodule "Assets/b"]
-	path = Assets/b
-	url = https://github.com/KikunoSatoshi/b.git
