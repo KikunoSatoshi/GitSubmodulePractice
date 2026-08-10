@@ -4,3 +4,6 @@
 [submodule "Assets/PrivateFolder2"]
 	path = Assets/PrivateFolder2
 	url = https://github.com/KikunoSatoshi/GitSubmodulePracticePrivate2.git
+[submodule "b"]
+	path = b
+	url = https://github.com/KikunoSatoshi/b.git
