@@ -1,0 +1,3 @@
+[submodule "Assets/b"]
+	path = Assets/b
+	url = https://github.com/KikunoSatoshi/b.git
